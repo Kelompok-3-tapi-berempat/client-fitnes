@@ -1,0 +1,1 @@
+export {default as LandingPage } from "./CustomersPages/LandingPage"

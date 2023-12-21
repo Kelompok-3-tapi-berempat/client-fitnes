@@ -1,0 +1,15 @@
+.Carousel.Caption {
+    transform: translate(-50%, -50%);
+    text-align: center; /* Mengatur teks menjadi rata tengah */
+    margin-bottom: 100px;
+}
+
+.imgprofil{
+    height: 400px;
+    width:  600px;
+}
+
+.card {
+    height: 100%;
+    transition: transform 0.3s;
+}
